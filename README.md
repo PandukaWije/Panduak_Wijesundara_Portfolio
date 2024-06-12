@@ -1,8 +1,13 @@
 # Panduka Wijesundara
+### Contact Information
+- Address: Kandy, 20450, Sri Lanka
+- Email: [panduka.s.wijesundara@gmail.com](mailto:panduka.s.wijesundara@gmail.com)
+- Phone: +94 71 76 355 83
+- LinkedIn : [Panduka Wijesundara](https://www.linkedin.com/in/panduka-wijesundara-b78619231/)
 
 ## Introduction
 
-Hello! I am Panduka Wijesundara, a dedicated and passionate AI Developer with a strong background in Information Technology and Data Science. My journey in the tech world has equipped me with a solid foundation in machine learning, data analysis, and AI-driven applications. I am constantly exploring new technologies and innovative solutions to advance my skills and contribute to impactful projects. In my career, I aim to leverage my expertise to develop cutting-edge AI solutions and pursue opportunities for passive income.
+Hello! I am Panduka Wijesundara, a dedicated and passionate Data Strategist / Associate ML Engineer (GenAI, NLP, CV). My journey in the tech world has equipped me with a solid foundation in machine learning, data analysis, and AI-driven applications. I am constantly exploring new technologies and innovative solutions to advance my skills and contribute to impactful projects. In my career, I aim to leverage my expertise to develop cutting-edge AI solutions and pursue opportunities for passive income.
 
 ---
 
@@ -49,17 +54,12 @@ These lessons have significantly improved my professional communication skills, 
 
 ## Curriculum Vitae
 
-### Contact Information
-- Address: 269, Embilmeegama, Pilimathalawa, Kandy, 20450, Sri Lanka
-- Email: [panduka.s.wijesundara@gmail.com](mailto:panduka.s.wijesundara@gmail.com)
-- Phone: +94 71 76 355 83
-
 ### Education
 
 #### Sri Lanka Institute of Information Technology, Malabe, Sri Lanka
 **BSc (Hons) in Information Technology, Data Science**  
 09.2020 – 06.2024  
-Relevant Coursework: Machine Learning, Deep Learning, Statistical Modelling, Data Mining, Data Warehousing, Information Retrieval
+Relevant Coursework: Artificial intelligence, Machine Learning, Deep Learning, Statistical Modelling, Data Science, Data Mining, Data Warehousing, Information Retrieval
 
 #### Dharmaraja College, Kandy, Sri Lanka
 **Primary, Secondary Education, Physical Science Stream**  
@@ -115,11 +115,11 @@ Relevant Coursework: Machine Learning, Deep Learning, Statistical Modelling, Dat
 
 ### Skills & Interests
 
-**Technical Skills**: Python, R, Machine Learning, Deep Learning, Neural Networks, Data Science, Data Analysis, Data Mining, EDA, Data Warehousing, Data Engineering, ETL/ELT, Probability and Statistics, Cloud Computing, NLP, Computer Vision, Automation, Generative AI, Prompt Engineering/Tuning, Language Modelling, Knowledge Graphs, Transformers, Web Scraping.
+**Technical Skills**: `Python`, `R`, `Machine Learning`, `Deep Learning`, `Neural Networks`, `Data Science`, `Data Analysis`, `Data Mining`, `EDA`, `Data Warehousing`, `Data Engineering`, `ETL/ELT`, `Probability and Statistics`, `Cloud Computing`, `NLP`, `Computer Vision`, `Automation`, `Generative AI`, `Prompt Engineering/Tuning`, `Language Modelling`, `Knowledge Graphs`, `Transformers`, `Web Scraping`.
 
-**Tools**: TensorFlow, Keras, NLTK, spaCy, Scikit-learn, OpenCV, Langchain, LangSmith, Llamaindex, ViT, OpenAI Stack, Google AI Stack, Makersuite, Pinecone, FAISS, Chroma, Vector Database, Neo4j, Graph Database, Apify, Superannotate, unstructured.io, MLFlow, Docker, AWS, Azure, Streamlit, Prompt-flow, ElasticSearch.
+**Tools**: `TensorFlow`, `Keras`, `NLTK`, `spaCy`, `Scikit-learn`, `OpenCV`, `Langchain`, `LangSmith`, `Llamaindex`, `OpenAI Stack`, `Google AI Stack`, `Makersuite`, `Pinecone`, `FAISS`, `Chroma`, `Neo4j`, `Apify`, `Superannotate`, `unstructured.io`, `MLFlow`, `Docker`, `AWS`, `Azure`, `Streamlit`, `Prompt-flow`, `ElasticSearch`.
 
-**Skills**: Adaptability, Attention to detail, Negotiation, Spectrum thinking, Data Strategy, Continuous learning.
+**Skills**: `Adaptability`, `Attention to detail`, `Negotiation`, `Spectrum thinking`, `Data Strategy`, `Continuous learning`.
 
 ### Links
 
@@ -130,7 +130,17 @@ Relevant Coursework: Machine Learning, Deep Learning, Statistical Modelling, Dat
 
 ## Evidence of Course Completion
 
-![Certificate](certificate-image-link)  
-**Course Title**: [Course Name]  
-**Institution**: [Institution Name]  
-**Date Completed**: [Date]
+![Certificate](https://cdn.qwiklabs.com/uehm6AXjibx%2Fiv0KiH9QnBXSoFmeRyLMAQt35WsCttE%3D)  
+**Course Title**: [Generative AI Fundamentals]  
+**Institution**: [Google]  
+**Date Completed**: [2023 June]
+
+![Certificate](https://cdn.qwiklabs.com/pNwE3VbRHGSOJgQb2JyoLM%2BFDYIMCEcBBa97Pb9ivF0%3D)  
+**Course Title**: [Introduction to Generative AI]  
+**Institution**: [Google]  
+**Date Completed**: [2023 June]
+
+![Certificate](https://cdn.qwiklabs.com/TfMqEetrdIngHf1e0jLpamHD%2Fmv9BP8nO%2BuFADy2wzM%3D)  
+**Course Title**: [Introduction to Large Language Models]  
+**Institution**: [Google]  
+**Date Completed**: [2023 June]
