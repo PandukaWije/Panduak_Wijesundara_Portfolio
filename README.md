@@ -114,7 +114,7 @@ Relevant Coursework: Artificial intelligence, Machine Learning, Deep Learning, S
 - Conducted a comparative analysis using technologies and techniques like GPT-4 Vision, Zero/One/Few Shot Prompting, Tree of Thought, Chain of Thought, and Re-Act Prompting.
 
 ### Skills & Interests
-> [!NOTE]
+> [!Technical Skills]
 > **Technical Skills**: `Python`, `R`, `Machine Learning`, `Deep Learning`, `Neural Networks`, `Data Science`, `Data Analysis`, `Data Mining`, `EDA`, `Data Warehousing`, `Data Engineering`, `ETL/ELT`, `Probability and Statistics`, `Cloud Computing`, `NLP`, `Computer Vision`, `Automation`, `Generative AI`, `Prompt Engineering/Tuning`, `Language Modelling`, `Knowledge Graphs`, `Transformers`, `Web Scraping`.
 
 > [!TIP]
