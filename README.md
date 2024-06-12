@@ -114,12 +114,14 @@ Relevant Coursework: Artificial intelligence, Machine Learning, Deep Learning, S
 - Conducted a comparative analysis using technologies and techniques like GPT-4 Vision, Zero/One/Few Shot Prompting, Tree of Thought, Chain of Thought, and Re-Act Prompting.
 
 ### Skills & Interests
+> [!NOTE]
+> **Technical Skills**: `Python`, `R`, `Machine Learning`, `Deep Learning`, `Neural Networks`, `Data Science`, `Data Analysis`, `Data Mining`, `EDA`, `Data Warehousing`, `Data Engineering`, `ETL/ELT`, `Probability and Statistics`, `Cloud Computing`, `NLP`, `Computer Vision`, `Automation`, `Generative AI`, `Prompt Engineering/Tuning`, `Language Modelling`, `Knowledge Graphs`, `Transformers`, `Web Scraping`.
 
-**Technical Skills**: `Python`, `R`, `Machine Learning`, `Deep Learning`, `Neural Networks`, `Data Science`, `Data Analysis`, `Data Mining`, `EDA`, `Data Warehousing`, `Data Engineering`, `ETL/ELT`, `Probability and Statistics`, `Cloud Computing`, `NLP`, `Computer Vision`, `Automation`, `Generative AI`, `Prompt Engineering/Tuning`, `Language Modelling`, `Knowledge Graphs`, `Transformers`, `Web Scraping`.
+> [!TIP]
+> **Tools**: `TensorFlow`, `Keras`, `NLTK`, `spaCy`, `Scikit-learn`, `OpenCV`, `Langchain`, `LangSmith`, `Llamaindex`, `OpenAI Stack`, `Google AI Stack`, `Makersuite`, `Pinecone`, `FAISS`, `Chroma`, `Neo4j`, `Apify`, `Superannotate`, `unstructured.io`, `MLFlow`, `Docker`, `AWS`, `Azure`, `Streamlit`, `Prompt-flow`, `ElasticSearch`.
 
-**Tools**: `TensorFlow`, `Keras`, `NLTK`, `spaCy`, `Scikit-learn`, `OpenCV`, `Langchain`, `LangSmith`, `Llamaindex`, `OpenAI Stack`, `Google AI Stack`, `Makersuite`, `Pinecone`, `FAISS`, `Chroma`, `Neo4j`, `Apify`, `Superannotate`, `unstructured.io`, `MLFlow`, `Docker`, `AWS`, `Azure`, `Streamlit`, `Prompt-flow`, `ElasticSearch`.
-
-**Skills**: `Adaptability`, `Attention to detail`, `Negotiation`, `Spectrum thinking`, `Data Strategy`, `Continuous learning`.
+> [!IMPORTANT]
+> **Skills**: `Adaptability`, `Attention to detail`, `Negotiation`, `Spectrum thinking`, `Data Strategy`, `Continuous learning`.
 
 ### Links
 
@@ -127,20 +129,13 @@ Relevant Coursework: Artificial intelligence, Machine Learning, Deep Learning, S
 - [Banking App Demo](https://banking-app-demo.streamlit.app/)
 
 ---
+---
+---
 
 ## Evidence of Course Completion
 
-![Certificate](https://cdn.qwiklabs.com/uehm6AXjibx%2Fiv0KiH9QnBXSoFmeRyLMAQt35WsCttE%3D)  
-**Course Title**: [Generative AI Fundamentals]  
-**Institution**: [Google]  
-**Date Completed**: [2023 June]
-
-![Certificate](https://cdn.qwiklabs.com/pNwE3VbRHGSOJgQb2JyoLM%2BFDYIMCEcBBa97Pb9ivF0%3D)  
-**Course Title**: [Introduction to Generative AI]  
-**Institution**: [Google]  
-**Date Completed**: [2023 June]
-
-![Certificate](https://cdn.qwiklabs.com/TfMqEetrdIngHf1e0jLpamHD%2Fmv9BP8nO%2BuFADy2wzM%3D)  
-**Course Title**: [Introduction to Large Language Models]  
-**Institution**: [Google]  
-**Date Completed**: [2023 June]
+| Certificate | Course Title                        | Institution | Date Completed |
+|-------------|--------------------------------------|-------------|----------------|
+| ![Certificate](https://cdn.qwiklabs.com/uehm6AXjibx%2Fiv0KiH9QnBXSoFmeRyLMAQt35WsCttE%3D) | Generative AI Fundamentals | Google      | 2023 June      |
+| ![Certificate](https://cdn.qwiklabs.com/pNwE3VbRHGSOJgQb2JyoLM%2BFDYIMCEcBBa97Pb9ivF0%3D) | Introduction to Generative AI | Google      | 2023 June      |
+| ![Certificate](https://cdn.qwiklabs.com/TfMqEetrdIngHf1e0jLpamHD%2Fmv9BP8nO%2BuFADy2wzM%3D) | Introduction to Large Language Models | Google      | 2023 June      |
