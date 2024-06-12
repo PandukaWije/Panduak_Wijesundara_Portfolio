@@ -10,6 +10,9 @@
 Hello! I am Panduka Wijesundara, a dedicated and passionate Data Strategist / Associate ML Engineer (GenAI, NLP, CV). My journey in the tech world has equipped me with a solid foundation in machine learning, data analysis, and AI-driven applications. I am constantly exploring new technologies and innovative solutions to advance my skills and contribute to impactful projects. In my career, I aim to leverage my expertise to develop cutting-edge AI solutions and pursue opportunities for passive income.
 
 ---
+---
+---
+
 
 ## Reflective Journal: What I Learned in PPW
 
@@ -51,6 +54,8 @@ These lessons have significantly improved my professional communication skills, 
 3. **Entrepreneurship**: Start my own AI consultancy or product-based company leveraging my experience and expertise.
 
 ---
+---
+---
 
 ## Curriculum Vitae
 
@@ -61,11 +66,15 @@ These lessons have significantly improved my professional communication skills, 
 09.2020 – 06.2024  
 Relevant Coursework: Artificial intelligence, Machine Learning, Deep Learning, Statistical Modelling, Data Science, Data Mining, Data Warehousing, Information Retrieval
 
+---
+
 #### Dharmaraja College, Kandy, Sri Lanka
 **Primary, Secondary Education, Physical Science Stream**  
 01.2005 – 08.2019  
 - Completed Advanced Level in the Physical Stream with two Very Good Pass, Credit Pass respectively in Physics, Chemistry, and Combined Mathematics (2019)
 - President Scout Award – Highest award as a senior scout in the Sri Lanka Scout Association (2016)
+
+---
 
 ### Experience
 
@@ -78,6 +87,8 @@ Relevant Coursework: Artificial intelligence, Machine Learning, Deep Learning, S
 - Utilized databases like Vector database (FAISS, Chroma, Pinecone) and Graph Database (Neo4j) for efficient data storage and retrieval.
 - Drove innovative AI solutions for various use cases including supermarkets and procurement.
 
+---
+
 #### Dialog Axiata PLC, Colombo, Sri Lanka
 **Data Scientist - Intern**  
 01.2023 – 07.2023  
@@ -89,12 +100,16 @@ Relevant Coursework: Artificial intelligence, Machine Learning, Deep Learning, S
 - Used Geocoding and Reverse Geocoding for address validation.
 - [Project Report](https://drive.google.com/file/d/1aBliiXwTdf_iCpeL37pYI_L79fj6iQz3/view?usp=sharing)
 
+---
+
 #### RUSH Digital (Remote)
 **Junior Machine Learning Engineer**  
 04.2022 – 01.2023  
 - Evaluated trained machine learning computer vision models with human supervision.
 - Tuned image segmentation models.
 - Prepared data for machine learning models.
+
+---
 
 ### Projects & Activities
 
@@ -113,15 +128,19 @@ Relevant Coursework: Artificial intelligence, Machine Learning, Deep Learning, S
 - Used Multimodal AI models to predict sawing operations in the apparel industry.
 - Conducted a comparative analysis using technologies and techniques like GPT-4 Vision, Zero/One/Few Shot Prompting, Tree of Thought, Chain of Thought, and Re-Act Prompting.
 
+---
+
 ### Skills & Interests
-> [!Technical Skills]
-> **Technical Skills**: `Python`, `R`, `Machine Learning`, `Deep Learning`, `Neural Networks`, `Data Science`, `Data Analysis`, `Data Mining`, `EDA`, `Data Warehousing`, `Data Engineering`, `ETL/ELT`, `Probability and Statistics`, `Cloud Computing`, `NLP`, `Computer Vision`, `Automation`, `Generative AI`, `Prompt Engineering/Tuning`, `Language Modelling`, `Knowledge Graphs`, `Transformers`, `Web Scraping`.
 
-> [!TIP]
-> **Tools**: `TensorFlow`, `Keras`, `NLTK`, `spaCy`, `Scikit-learn`, `OpenCV`, `Langchain`, `LangSmith`, `Llamaindex`, `OpenAI Stack`, `Google AI Stack`, `Makersuite`, `Pinecone`, `FAISS`, `Chroma`, `Neo4j`, `Apify`, `Superannotate`, `unstructured.io`, `MLFlow`, `Docker`, `AWS`, `Azure`, `Streamlit`, `Prompt-flow`, `ElasticSearch`.
+**Technical Skills**: `Python`, `R`, `Machine Learning`, `Deep Learning`, `Neural Networks`, `Data Science`, `Data Analysis`, `Data Mining`, `EDA`, `Data Warehousing`, `Data Engineering`, `ETL/ELT`, `Probability and Statistics`, `Cloud Computing`, `NLP`, `Computer Vision`, `Automation`, `Generative AI`, `Prompt Engineering/Tuning`, `Language Modelling`, `Knowledge Graphs`, `Transformers`, `Web Scraping`.
 
-> [!IMPORTANT]
-> **Skills**: `Adaptability`, `Attention to detail`, `Negotiation`, `Spectrum thinking`, `Data Strategy`, `Continuous learning`.
+
+**Tools**: `TensorFlow`, `Keras`, `NLTK`, `spaCy`, `Scikit-learn`, `OpenCV`, `Langchain`, `LangSmith`, `Llamaindex`, `OpenAI Stack`, `Google AI Stack`, `Makersuite`, `Pinecone`, `FAISS`, `Chroma`, `Neo4j`, `Apify`, `Superannotate`, `unstructured.io`, `MLFlow`, `Docker`, `AWS`, `Azure`, `Streamlit`, `Prompt-flow`, `ElasticSearch`.
+
+
+**Skills**: `Adaptability`, `Attention to detail`, `Negotiation`, `Spectrum thinking`, `Data Strategy`, `Continuous learning`.
+
+---
 
 ### Links
 
