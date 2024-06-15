@@ -18,17 +18,56 @@ Hello! I am Panduka Wijesundara, a dedicated and passionate Data Strategist / As
 
 ### Preparation for Professional World (PPW) Lessons
 
-Throughout the PPW course, I have gained invaluable skills that are crucial for professional success. Here are the key lessons I have learned:
+### Description
+The Preparation for Professional World (PPW) course was designed to equip students with essential communication skills for professional settings. The course covered various aspects of business communication, including business writing, email writing, language for presentations, writing different types of letters, memo writing, report writing, and formal letter writing. The sessions were conducted by a knowledgeable instructor who guided us through the theoretical foundations and practical applications of each topic. Our cohort consisted of students from diverse backgrounds, all eager to enhance their professional communication skills.
 
-1. **Business Writing**: Developed the ability to write clear, concise, and professional business documents.
-2. **Language for Presentations**: Enhanced my presentation skills, learning how to effectively communicate ideas and engage an audience.
-3. **Report Writing**: Learned the structure and techniques for writing comprehensive and impactful reports.
-4. **Letter Writing-01**: Acquired the skill of drafting formal letters for various professional scenarios.
-5. **Letter Writing-02**: Further improved my letter writing skills, focusing on clarity and professionalism.
-6. **Memo Writing**: Mastered the art of writing memos that are precise and to the point.
-7. **Email Writing**: Learned how to craft professional and effective emails for different purposes.
 
-These lessons have significantly improved my professional communication skills, enabling me to convey information effectively and professionally in any business setting.
+### Reactions and Feelings:
+My initial reaction to the course was a mix of anticipation and anxiety. I was excited to learn skills that would be directly applicable in my future career, but I also felt apprehensive about the complexity of professional writing standards. As the course progressed, my confidence grew, particularly when I started applying the principles in practical exercises.
+
+Lessons were, 
+Clarity and Structure: The lessons were well-structured, providing clear guidelines and examples for each type of communication.
+Practical Exercises: The inclusion of exercises helped in reinforcing the concepts and allowed us to practice real-world applications.
+Comprehensive Coverage: The course covered a wide range of communication forms, ensuring we were well-rounded in our skills.
+
+However I noticed that, 
+Time Constraints: Some lessons could have benefitted from more time for deeper exploration and practice.
+
+**Learning Outcomes**:
+I learned the importance of clarity, conciseness, and professionalism in business communication. Each lesson contributed to a holistic understanding of how to convey messages effectively in a professional context. The exercises on making sentences more concise, structuring emails, and using appropriate language for presentations were particularly valuable.
+
+### Analyze
+What Was Really Going On?
+The course aimed to bridge the gap between academic knowledge and professional application. It emphasized practical skills that are crucial for effective communication in the workplace. By integrating theory with practical exercises, the course ensured that we not only understood the principles but also knew how to apply them in real scenarios.
+
+**Sense-Making**:
+The structured approach to each lesson helped in gradually building our skills. For example, starting with business writing principles laid a solid foundation for more specific topics like email writing and report writing. The emphasis on revising and proofreading across all types of communication highlighted the importance of accuracy and professionalism.
+
+**Integration of Theory and Experience**:
+The theoretical concepts of clarity, conciseness, and formal language were consistently applied in practical exercises, reinforcing their importance. The course also fostered self-awareness by encouraging us to evaluate our writing critically and make improvements.
+
+Improved Awareness and Self-Development:
+I became more aware of the nuances of professional communication, such as the importance of non-sexist language and the appropriate use of formal and informal tones. This awareness has enhanced my self-development, making me more confident and competent in my communication skills.
+
+### Conclusions
+**General Conclusions**:
+The PPW course was instrumental in developing essential professional communication skills. It provided a comprehensive understanding of various forms of business communication and their practical applications. The emphasis on clarity, conciseness, and professionalism is crucial for effective workplace communication.
+
+**Specific Conclusions**:
+Each lesson built on the previous one, creating a cohesive learning experience. The practical exercises were particularly beneficial in reinforcing the theoretical concepts. The course has significantly improved my ability to write professional emails, reports, memos, and letters.
+
+### Action Plan
+Next Time:
+In similar situations, I will approach the learning process with a structured plan, allocating specific times for reviewing and practicing each type of communication. I will also seek feedback more actively to improve continuously.
+
+**Steps to Take**:
+
+ - Regular Practice: I will regularly practice writing different types of business communications to maintain and improve my skills.
+ - Seeking Feedback: I will seek feedback from peers and mentors to identify areas for improvement.
+ - Continuous Learning: I will stay updated on best practices in professional communication and apply them in my work.
+ - Self-Reflection: I will periodically reflect on my progress and adjust my learning strategies accordingly.
+
+By implementing these steps, I aim to enhance my professional communication skills further, ensuring they remain effective and relevant in a dynamic work environment.
 
 ---
 
