@@ -17,6 +17,12 @@ Hello! I am Panduka Wijesundara, a dedicated and passionate Data Strategist , AI
 
 ### Education
 
+#### University of Moratuwa - Department of Computational Mathematics, Faculty of Information Technology, Moratuwa, Sri Lanka
+**Master of Science in Artificial Intelligence. (Reding)**
+07.2025 – 07.2027  
+Relevant Coursework: Generative AI, Machine Learning, Deep Learning, Multi-Agent Systems, Ontological Modeling, Artificial Cognitive Systems, Applied Machine Learning.
+
+---
 #### Sri Lanka Institute of Information Technology, Malabe, Sri Lanka
 **BSc (Hons) in Information Technology, Data Science**  
 09.2020 – 06.2024  
@@ -33,6 +39,14 @@ Relevant Coursework: Artificial intelligence, Machine Learning, Deep Learning, S
 ---
 
 ### Experience
+
+#### Veracity Group, Sri Lanka 
+**AI / ML Engineer**  
+06.2024 – 06.2025  
+ - Served as Resource Person for Kavia AI (San Francisco-based startup) within the AI/Prompting team, developing AI solutions that automate the complete SDLC from requirements gathering to production deployment.  
+ - Architected and implemented RAG (Retrieval Augmented Generation) backend systems for Knowledge Management, including comprehensive monitoring solutions for production RAG applications. 
+ - Conducted Best Practices of prompting, GenAI/LLM usage and git for the Junior Developers. 
+ - Designed and developed sophisticated AI agent ecosystems featuring: Multi-Agent workflow management systems with Runtime Dynamic agent capabilities. Specialized business agents including Lead Qualification, HR Job Follow-up, Interview Coaching, and ClickUp task automation solutions. Integrated agent systems with enterprise workflows to
 
 #### Donext, Sri Lanka (Remote)
 **Associate Machine Learning Engineer**  
